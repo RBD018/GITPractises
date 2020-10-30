@@ -1,0 +1,18 @@
+<HTML>
+	<head>
+		<title> Welcome </title>
+	</head>
+	<body>
+		<center>
+			<h1> Welcome Rohit </h1>
+<<<<<<< HEAD
+<<<<<<< HEAD
+			<h2> Lets play </h2>
+=======
+			<h3> Lets play </h3>
+>>>>>>> Rohit
+			<p> GIT being  part of devops </p>
+>>>>>>> Rohit
+		</center>
+	</body>
+</html>
